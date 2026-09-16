@@ -74,4 +74,4 @@ The notebook exports the trained model to ONNX.
 ```
 
 ## SDAIA Academy GitHub Repository Link
-Ahttps://github.com/SDAIAAcademy
+https://github.com/SDAIAAcademy
